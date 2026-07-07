@@ -1,1 +1,23 @@
+# Enterprise Network Planning
 
+## Objective
+
+Design an enterprise network using Cisco Packet Tracer that demonstrates VLAN implementation, routing, DHCP and network connectivity.
+
+## Departments
+
+- HR
+- Finance
+- IT
+
+## VLAN Plan
+
+| VLAN | Department | Network |
+|------|------------|----------|
+|10|HR|192.168.10.0/24|
+|20|Finance|192.168.20.0/24|
+|30|IT|192.168.30.0/24|
+
+## Expected Outcome
+
+The network will allow devices within different VLANs to communicate through inter-VLAN routing while maintaining logical separation between departments.
